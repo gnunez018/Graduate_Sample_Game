@@ -324,10 +324,6 @@ def option_4():
         
         print ("*******************************************************************************")
 
-#Open file in read mode
-        file= open( "grades.txt","r")
-        file=file.readline()
-        file=file.close()
 
 
 
